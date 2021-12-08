@@ -8,7 +8,7 @@ Este repositorio está creado para exponer comandos vistos en el curso de sistem
 
 | Comando                             | Sirve Para                                                      | Ejemplo                                                                                             |
 | ----------------------------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| ip addr                             | Retorna la dirección IP de la máquina                           | ![alt text](https://github.com/Anderlyn/SISTEMAS_OPERATIVOS_LINUXCMD/blob/main/screenshots/1.png)   |
+| ip addr                             | Retorna la dirección IP de la máquina                           | ![alt text](https://github.com/Anderlyn/SISTEMAS_OPERATIVOS_LINUXCMD/blob/main/screenshots/1_.png)  |
 | ping {ip}                           | Trata de conectar con la IP indicada                            | ![alt text](https://github.com/Anderlyn/SISTEMAS_OPERATIVOS_LINUXCMD/blob/main/screenshots/2.png)   |
 | sudo apt install {paquete}          | Instala el paquete indicado                                     | ![alt text](https://github.com/Anderlyn/SISTEMAS_OPERATIVOS_LINUXCMD/blob/main/screenshots/3.png)   |
 | sudo apt install neofetch           | Instala neofetch, para ver un resumen del sistema operativo     | ![alt text](https://github.com/Anderlyn/SISTEMAS_OPERATIVOS_LINUXCMD/blob/main/screenshots/4.png)   |
